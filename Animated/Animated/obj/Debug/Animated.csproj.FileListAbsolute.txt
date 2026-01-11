@@ -1,0 +1,10 @@
+D:\Animated\Animated\bin\Debug\Animated.exe.config
+D:\Animated\Animated\bin\Debug\Animated.exe
+D:\Animated\Animated\bin\Debug\Animated.pdb
+D:\Animated\Animated\obj\Debug\Animated.Animated.resources
+D:\Animated\Animated\obj\Debug\Animated.Properties.Resources.resources
+D:\Animated\Animated\obj\Debug\Animated.csproj.GenerateResource.cache
+D:\Animated\Animated\obj\Debug\Animated.csproj.CoreCompileInputs.cache
+D:\Animated\Animated\obj\Debug\Animated.exe
+D:\Animated\Animated\obj\Debug\Animated.pdb
+D:\Animated\Animated\obj\Debug\Animated.csprojResolveAssemblyReference.cache
